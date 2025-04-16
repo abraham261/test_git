@@ -2,3 +2,5 @@ je m'appelle abraham je vis a paris
 je suis à rol tanguy
 
 je m'apelle fresnel je vis à lamballe je travaille avec abraham
+
+nous allons simuler un conflit
